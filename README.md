@@ -7,7 +7,7 @@ Here Are Some of My Favorite Repos!
 </p>
 
 
-### Repose
+### Repos
 
  - [Store.Js](https://github.com/marcuswestin/store.js/) Cross-browser storage for all use cases, used across the web.
  - [Tiny Mustache](https://github.com/aishikaty/tiny-mustache) :speak_no_evil: The smallest implementation of Mustache template engine. (0.4 KB)
