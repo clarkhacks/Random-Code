@@ -15,4 +15,4 @@ Here Are Some of My Favorite Repos!
 - [Tiny Ajax](https://github.com/aishikaty/tiny-ajax) :dizzy: Speeds up your site magically with AJAX (1 KB)
 - [LowDB](https://github.com/typicode/lowdb) :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [tLapse](https://github.com/typicode/tlapse) :camera: Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
--[Stop Server](https://github.com/typicode/stop-server) 📱 Shut down your computer with your phone.
+- [Stop Server](https://github.com/typicode/stop-server) 📱 Shut down your computer with your phone.
