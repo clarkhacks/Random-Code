@@ -16,3 +16,7 @@ Here Are Some of My Favorite Repos!
 - [LowDB](https://github.com/typicode/lowdb) :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [tLapse](https://github.com/typicode/tlapse) :camera: Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
 - [Stop Server](https://github.com/typicode/stop-server) 📱 Shut down your computer with your phone.
+- [Perfect Scroll](https://github.com/utatti/perfect-scrollbar) Minimalistic but perfect custom scrollbar plugin
+- [PouchDB](https://github.com/pouchdb/pouchdb) 🐨 - PouchDB is a pocket-sized database. 
+- [LocalForage](https://github.com/localForage/localForage) 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+-[Charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies
