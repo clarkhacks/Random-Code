@@ -2,7 +2,9 @@
  :dizzy: Awesome Repositories! :sparkles:<br><br>
 </h2>
 
+<p align="center">
 Here Are Some of My Favorite Repos!
+</p>
 
 
 ### Repose
