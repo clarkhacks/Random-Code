@@ -21,3 +21,4 @@ Here Are Some of My Favorite Repos!
 - [LocalForage](https://github.com/localForage/localForage) 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [Charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies
 - [Repo.cat](https://github.com/keyanzhang/repo.cat) 🐱 Trending GitHub repos on Hacker News.
+- [FS Logger](https://gist.github.com/clarkhacks/65eb549ea49ccdb751b6a4aae2850ed6) Log To File With FS
