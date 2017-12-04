@@ -19,4 +19,5 @@ Here Are Some of My Favorite Repos!
 - [Perfect Scroll](https://github.com/utatti/perfect-scrollbar) Minimalistic but perfect custom scrollbar plugin
 - [PouchDB](https://github.com/pouchdb/pouchdb) 🐨 - PouchDB is a pocket-sized database. 
 - [LocalForage](https://github.com/localForage/localForage) 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
--[Charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies
+- [Charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies
+- [Repo.cat](https://github.com/keyanzhang/repo.cat) 🐱 Trending GitHub repos on Hacker News.
