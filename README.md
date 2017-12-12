@@ -16,10 +16,12 @@
 #### Templating
 
 - [Tiny Mustache](https://github.com/aishikaty/tiny-mustache) :speak_no_evil: The smallest implementation of Mustache template engine. (0.4 KB)
+- [Murri](https://github.com/haltu/muuri) Responsive, sortable, filterable and draggable grid layouts.
 
-#### Static Building
+#### Building
 
 - [Gatsby](https://github.com/gatsbyjs/gatsby) ⚛️📄🚀 Blazing fast static site generator for React!
+- [Parcel](https://github.com/parcel-bundler/parcel) 📦🚀 Blazing fast, zero configuration web application bundler
 
 #### UI
 
