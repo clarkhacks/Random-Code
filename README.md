@@ -2,7 +2,7 @@
  :dizzy: Awesome Repositories! :sparkles:<br><br>
 </h2>
 
-<p align="center">A (baddly) currated list of repositories I enjoy.</p>
+<p align="center">A (baddly) curated list of repositories I enjoy.</p>
 
 ### Repos
 
