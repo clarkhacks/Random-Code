@@ -26,8 +26,9 @@
 
 #### UI
 
-- [Charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies
-- [Perfect Scroll](https://github.com/utatti/perfect-scrollbar) Minimalistic but perfect custom scrollbar plugin
+- [Charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies.
+- [Perfect Scroll](https://github.com/utatti/perfect-scrollbar) Minimalistic but perfect custom scrollbar plugin.
+- [MiniGrid](https://github.com/henriquea/minigrid) 📏 Minimal 2kb zero dependency cascading grid layout.
 
 #### Utilities
 
@@ -36,6 +37,7 @@
 - [tLapse](https://github.com/typicode/tlapse) :camera: Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
 - [Stop Server](https://github.com/typicode/stop-server) 📱 Shut down your computer with your phone.
 - [FS Logger](https://gist.github.com/clarkhacks/65eb549ea49ccdb751b6a4aae2850ed6) Log To File With FS
+- [Mini](https://github.com/padolsey/mini) A tiny selector engine; only the essentials
 
 #### Misc
 
