@@ -38,6 +38,7 @@
 - [Stop Server](https://github.com/typicode/stop-server) 📱 Shut down your computer with your phone.
 - [FS Logger](https://gist.github.com/clarkhacks/65eb549ea49ccdb751b6a4aae2850ed6) Log To File With FS
 - [Mini](https://github.com/padolsey/mini) A tiny selector engine; only the essentials
+- [uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶
 
 #### Misc
 
