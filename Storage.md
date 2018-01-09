@@ -6,3 +6,4 @@
 - [LowDB](https://github.com/typicode/lowdb) :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [PouchDB](https://github.com/pouchdb/pouchdb) 🐨 - PouchDB is a pocket-sized database. 
 - [LocalForage](https://github.com/localForage/localForage) 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+- [uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶
