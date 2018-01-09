@@ -17,6 +17,7 @@
 
 - [Tiny Mustache](https://github.com/aishikaty/tiny-mustache) :speak_no_evil: The smallest implementation of Mustache template engine. (0.4 KB)
 - [Murri](https://github.com/haltu/muuri) Responsive, sortable, filterable and draggable grid layouts.
+- [Turbo Links](https://github.com/turbolinks/turbolinks) Turbolinks makes navigating your web application faster.
 
 #### Building
 
@@ -45,4 +46,4 @@
 - [Repo.cat](https://github.com/keyanzhang/repo.cat) 🐱 Trending GitHub repos on Hacker News.
 - [CaptinDuckDuck](https://github.com/githubsaturn/captainduckduck) Automated Scalable Ready Webserver Package
 - [30 Seconds Of Code](https://github.com/Chalarangelo/30-seconds-of-code) Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
-- [Learn Anything](https://github.com/learn-anything/learn-anything) 🗺 Search Interactive Maps to Learn Anything
+- [Learn Anything](https://github.com/learn-anything/learn-anything) 🗺 Search Interactive Maps to Learn Anything.
