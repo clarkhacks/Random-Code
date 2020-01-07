@@ -6,3 +6,4 @@
 - [Perfect Scroll](https://github.com/utatti/perfect-scrollbar) Minimalistic but perfect custom scrollbar plugin.
 - [MiniGrid](https://github.com/henriquea/minigrid) 📏 Minimal 2kb zero dependency cascading grid layout.
 - [MailToUI](https://mailtoui.com/) 6.5kb gzipped + A simple way to enhance your mailto links with a convenient user interface.
+- [PageMap](https://larsjung.de/pagemap/) Mini map for web pages.
